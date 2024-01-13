@@ -12,6 +12,7 @@ By the end of this lesson, you should be able to do the following:
  - Explain three different ways to add data to an array.
  - Explain how to remove elements from an array.
  - This is my bogus contribution to TOP.
+ - Another bogus change.
 
 ### Creating arrays
 Here are two basic arrays:
